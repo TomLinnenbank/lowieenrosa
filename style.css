@@ -1,0 +1,29 @@
+body {
+    background-color: #1a1a1a;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 { color: #ff0050; }
+
+.verse {
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+strong {
+    display: block;
+    font-size: 1.5rem;
+    color: #ffd700; /* Goud voor het refrein */
+    text-transform: uppercase;
+}
+
+.video-container {
+    margin-top: 20px;
+    border: 3px solid #ff0050;
+    border-radius: 10px;
+    overflow: hidden;
+}
