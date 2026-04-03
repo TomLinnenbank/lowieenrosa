@@ -92,3 +92,18 @@ footer {
     font-size: 1.5rem;
     color: var(--terracotta);
 }
+.shout {
+    color: #bc6c4d; /* De terracotta kleur uit de foto */
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.chorus {
+    border-left: 5px solid #6b705c !important; /* Olijfgroen voor het refrein */
+    background-color: #fdfaf6 !important;
+}
+
+.chorus p {
+    font-weight: 500;
+}
